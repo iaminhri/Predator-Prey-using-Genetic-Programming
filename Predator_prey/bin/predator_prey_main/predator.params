@@ -1,0 +1,68 @@
+parent.0 = koza.params
+
+#gp.tree.print-style=latex
+# we have one function set, of class GPFunctionSet
+
+gp.fs.size = 1
+gp.fs.0 = ec.gp.GPFunctionSet
+
+# We will call the function set "f0".
+
+gp.fs.0.name = f0
+
+# We have five functions in the function set. They are:
+
+gp.fs.0.size = 9
+
+-------------------------------------------------
+#Modified Section:
+
+gp.fs.0.func.0 = functions.Move
+gp.fs.0.func.0.nc = nc0
+
+gp.fs.0.func.1 = functions.Left
+gp.fs.0.func.1.nc = nc0
+
+gp.fs.0.func.2 = functions.Right
+gp.fs.0.func.2.nc = nc0
+
+gp.fs.0.func.3 = functions.IfPreyAhead
+gp.fs.0.func.3.nc = nc2
+
+gp.fs.0.func.4 = functions.Progn2
+gp.fs.0.func.4.nc = nc2
+
+gp.fs.0.func.5 = functions.Progn3
+gp.fs.0.func.5.nc = nc3
+
+gp.fs.0.func.6 = functions.IfPreyBehind
+gp.fs.0.func.6.nc = nc2
+
+gp.fs.0.func.7 = functions.IfPreyLeft
+gp.fs.0.func.7.nc = nc2
+
+gp.fs.0.func.8 = functions.IfPreyRight
+gp.fs.0.func.8.nc = nc2
+
+pop.subpop.0.size = 1024
+generations = 51
+
+select.tournament.size = 3
+
+jobs=3
+
+eval.problem = predator_prey_main.PredatorPrey
+eval.problem.data = ec.gp.GPData
+eval.problem.moves = 600
+eval.problem.max-x = 30
+eval.problem.max-y = 30
+eval.problem.prey_amount = 30
+eval.problem.file = santafe.trl
+
+# output Statistics to the file "out.stat" in the directory
+# the run was started in 
+stat.file					$out.stat
+
+
+
+

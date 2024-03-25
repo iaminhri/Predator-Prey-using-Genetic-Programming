@@ -1,0 +1,502 @@
+
+Generation: 0
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=22.0 Adjusted=0.043478260869565216 Hits=8
+Tree 0:
+ (if-prey-ahead (progn2 move move) (progn3
+     left move right))
+
+Generation: 1
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=22.0 Adjusted=0.043478260869565216 Hits=8
+Tree 0:
+ (if-prey-ahead (progn2 move move) (progn3
+     left move right))
+
+Generation: 2
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=22.0 Adjusted=0.043478260869565216 Hits=8
+Tree 0:
+ (if-prey-ahead (progn2 move move) (progn3
+     left move right))
+
+Generation: 3
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=22.0 Adjusted=0.043478260869565216 Hits=8
+Tree 0:
+ (if-prey-ahead (progn2 move move) (progn3
+     left move right))
+
+Generation: 4
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=22.0 Adjusted=0.043478260869565216 Hits=8
+Tree 0:
+ (if-prey-ahead (progn2 move move) (progn3
+     left move right))
+
+Generation: 5
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=22.0 Adjusted=0.043478260869565216 Hits=8
+Tree 0:
+ (if-prey-ahead (progn2 move move) (progn3
+     left move right))
+
+Generation: 6
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=22.0 Adjusted=0.043478260869565216 Hits=8
+Tree 0:
+ (if-prey-ahead (progn2 move move) (progn3
+     left move right))
+
+Generation: 7
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=22.0 Adjusted=0.043478260869565216 Hits=8
+Tree 0:
+ (if-prey-ahead (progn2 move move) (progn3
+     left move right))
+
+Generation: 8
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=22.0 Adjusted=0.043478260869565216 Hits=8
+Tree 0:
+ (if-prey-ahead (progn2 move move) (progn3
+     left move right))
+
+Generation: 9
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=22.0 Adjusted=0.043478260869565216 Hits=8
+Tree 0:
+ (if-prey-ahead (progn2 move move) (progn3
+     left move right))
+
+Generation: 10
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=22.0 Adjusted=0.043478260869565216 Hits=8
+Tree 0:
+ (if-prey-ahead (progn2 move move) (progn3
+     left move right))
+
+Generation: 11
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=22.0 Adjusted=0.043478260869565216 Hits=8
+Tree 0:
+ (if-prey-ahead (progn2 move move) (progn3
+     left move right))
+
+Generation: 12
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=22.0 Adjusted=0.043478260869565216 Hits=8
+Tree 0:
+ (if-prey-ahead (progn2 move move) (progn3
+     left move right))
+
+Generation: 13
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=22.0 Adjusted=0.043478260869565216 Hits=8
+Tree 0:
+ (if-prey-ahead (progn2 move move) (progn3
+     left move right))
+
+Generation: 14
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=22.0 Adjusted=0.043478260869565216 Hits=8
+Tree 0:
+ (if-prey-ahead (progn2 move move) (progn3
+     left move right))
+
+Generation: 15
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=22.0 Adjusted=0.043478260869565216 Hits=8
+Tree 0:
+ (if-prey-ahead (progn2 move move) (progn3
+     left move right))
+
+Generation: 16
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=22.0 Adjusted=0.043478260869565216 Hits=8
+Tree 0:
+ (if-prey-ahead (progn2 move move) (progn3
+     left move right))
+
+Generation: 17
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=22.0 Adjusted=0.043478260869565216 Hits=8
+Tree 0:
+ (if-prey-ahead (progn2 move move) (progn3
+     left move right))
+
+Generation: 18
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=22.0 Adjusted=0.043478260869565216 Hits=8
+Tree 0:
+ (if-prey-ahead (progn2 move move) (progn3
+     left move right))
+
+Generation: 19
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=22.0 Adjusted=0.043478260869565216 Hits=8
+Tree 0:
+ (if-prey-ahead (progn2 move move) (progn3
+     left move right))
+
+Generation: 20
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=22.0 Adjusted=0.043478260869565216 Hits=8
+Tree 0:
+ (if-prey-ahead (progn2 move move) (progn3
+     left move right))
+
+Generation: 21
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=22.0 Adjusted=0.043478260869565216 Hits=8
+Tree 0:
+ (if-prey-ahead (progn2 move move) (progn3
+     left move right))
+
+Generation: 22
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=22.0 Adjusted=0.043478260869565216 Hits=8
+Tree 0:
+ (if-prey-ahead (progn2 move move) (progn3
+     left move right))
+
+Generation: 23
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=22.0 Adjusted=0.043478260869565216 Hits=8
+Tree 0:
+ (if-prey-ahead (progn2 move move) (progn3
+     left move right))
+
+Generation: 24
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=22.0 Adjusted=0.043478260869565216 Hits=8
+Tree 0:
+ (if-prey-ahead (progn2 move move) (progn3
+     left move right))
+
+Generation: 25
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=22.0 Adjusted=0.043478260869565216 Hits=8
+Tree 0:
+ (if-prey-ahead (progn2 move move) (progn3
+     left move right))
+
+Generation: 26
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=22.0 Adjusted=0.043478260869565216 Hits=8
+Tree 0:
+ (if-prey-ahead (progn2 move move) (progn3
+     left move right))
+
+Generation: 27
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=22.0 Adjusted=0.043478260869565216 Hits=8
+Tree 0:
+ (if-prey-ahead (progn2 move move) (progn3
+     left move right))
+
+Generation: 28
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=22.0 Adjusted=0.043478260869565216 Hits=8
+Tree 0:
+ (if-prey-ahead (progn2 move move) (progn3
+     left move right))
+
+Generation: 29
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=22.0 Adjusted=0.043478260869565216 Hits=8
+Tree 0:
+ (if-prey-ahead (progn2 move move) (progn3
+     left move right))
+
+Generation: 30
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=22.0 Adjusted=0.043478260869565216 Hits=8
+Tree 0:
+ (if-prey-ahead (progn2 move move) (progn3
+     left move right))
+
+Generation: 31
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=22.0 Adjusted=0.043478260869565216 Hits=8
+Tree 0:
+ (if-prey-ahead (progn2 move move) (progn3
+     left move right))
+
+Generation: 32
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=22.0 Adjusted=0.043478260869565216 Hits=8
+Tree 0:
+ (if-prey-ahead (progn2 move move) (progn3
+     left move right))
+
+Generation: 33
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=22.0 Adjusted=0.043478260869565216 Hits=8
+Tree 0:
+ (if-prey-ahead (progn2 move move) (progn3
+     left move right))
+
+Generation: 34
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=22.0 Adjusted=0.043478260869565216 Hits=8
+Tree 0:
+ (if-prey-ahead (progn2 move move) (progn3
+     left move right))
+
+Generation: 35
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=22.0 Adjusted=0.043478260869565216 Hits=8
+Tree 0:
+ (if-prey-ahead (progn2 move move) (progn3
+     left move right))
+
+Generation: 36
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=22.0 Adjusted=0.043478260869565216 Hits=8
+Tree 0:
+ (if-prey-ahead (progn2 move move) (progn3
+     left move right))
+
+Generation: 37
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=22.0 Adjusted=0.043478260869565216 Hits=8
+Tree 0:
+ (if-prey-ahead (progn2 move move) (progn3
+     left move right))
+
+Generation: 38
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=22.0 Adjusted=0.043478260869565216 Hits=8
+Tree 0:
+ (if-prey-ahead (progn2 move move) (progn3
+     left move right))
+
+Generation: 39
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=22.0 Adjusted=0.043478260869565216 Hits=8
+Tree 0:
+ (if-prey-ahead (progn2 move move) (progn3
+     left move right))
+
+Generation: 40
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=22.0 Adjusted=0.043478260869565216 Hits=8
+Tree 0:
+ (if-prey-ahead (progn2 move move) (progn3
+     left move right))
+
+Generation: 41
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=22.0 Adjusted=0.043478260869565216 Hits=8
+Tree 0:
+ (if-prey-ahead (progn2 move move) (progn3
+     left move right))
+
+Generation: 42
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=22.0 Adjusted=0.043478260869565216 Hits=8
+Tree 0:
+ (if-prey-ahead (progn2 move move) (progn3
+     left move right))
+
+Generation: 43
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=22.0 Adjusted=0.043478260869565216 Hits=8
+Tree 0:
+ (if-prey-ahead (progn2 move move) (progn3
+     left move right))
+
+Generation: 44
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=22.0 Adjusted=0.043478260869565216 Hits=8
+Tree 0:
+ (if-prey-ahead (progn2 move move) (progn3
+     left move right))
+
+Generation: 45
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=22.0 Adjusted=0.043478260869565216 Hits=8
+Tree 0:
+ (if-prey-ahead (progn2 move move) (progn3
+     left move right))
+
+Generation: 46
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=22.0 Adjusted=0.043478260869565216 Hits=8
+Tree 0:
+ (if-prey-ahead (progn2 move move) (progn3
+     left move right))
+
+Generation: 47
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=22.0 Adjusted=0.043478260869565216 Hits=8
+Tree 0:
+ (if-prey-ahead (progn2 move move) (progn3
+     left move right))
+
+Generation: 48
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=22.0 Adjusted=0.043478260869565216 Hits=8
+Tree 0:
+ (if-prey-ahead (progn2 move move) (progn3
+     left move right))
+
+Generation: 49
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=22.0 Adjusted=0.043478260869565216 Hits=8
+Tree 0:
+ (if-prey-ahead (progn2 move move) (progn3
+     left move right))
+
+Generation: 50
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=22.0 Adjusted=0.043478260869565216 Hits=8
+Tree 0:
+ (if-prey-ahead (progn2 move move) (progn3
+     left move right))
+
+Best Individual of Run:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=22.0 Adjusted=0.043478260869565216 Hits=8
+Tree 0:
+ (if-prey-ahead (progn2 move move) (progn3
+     left move right))
+
+
+Best Individual's Map
+=====================
+Simulation Map:
+#........p........############
+..................X...........
+###X###############......#####
+...................p.....X....
+##########################....
+X.............................
+#............######X##########
+.............X................
+###########X##.........#X#####
+..............................
+..............................
+..............p...............
+....p..p..................p...
+..............p...............
+.....................p........
+..............................
+..........p...................
+...p..........................
+.........p..p.................
+..........pp................p.
+..............................
+....p.............p...........
+..............................
+.............p...........p....
+..............................
+..............................
+...........p..................
+............................p.
+........p.....................
+..............................
