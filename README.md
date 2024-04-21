@@ -171,6 +171,7 @@ Simulation Map:
 2. Run `pursuit.PredatorRunner` from an IDE or via the terminal.
 
 IDE:
+![intellij](https://github.com/iaminhri/Predator-Prey-using-Genetic-Programming/assets/49620086/0d909936-ecbe-4b2a-843d-e611e144b810)
 
 Terminal:
 
