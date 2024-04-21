@@ -1,43 +1,43 @@
-<h2>Predator-Prey Genetic Programming Solution</h2>
-<p>The Predator-Prey problem aims to simulate one predator pursuing multiple prey instances within a map. The objective is to eat as much prey as possible within a given number of moves, with the predator evolving a successful pursuit strategy. The evolutionary process employs genetic programming with the ECJ (A Java-based Evolutionary Computation Research System) framework.</p>
-<h3>Problem Description</h3>
-<ul>
-  <li><strong>Simulation Environment:</strong> 2-dimensional array [30x30]</li>
-  <li><strong>Predator's Symbol:</strong> "#" (Hash symbol)</li>
-  <li><strong>Eaten Prey Symbol:</strong> "X" (Alphabet X)</li>
-  <li><strong>Surviving Prey Symbol:</strong> "p" (Alphabet small-p)</li>
-  <li><strong>Empty Cell Symbol:</strong> "." (Dot)</li>
-</ul>
-<h3>Genetic Programming Parameters</h3>
-<ul>
-  <li><strong>Function Sets:</strong>
-    <ul>
-      <li>IfPreyAhead</li>
-      <li>IfPreyBehind</li>
-      <li>IfPreyLeft</li>
-      <li>IfPreyRight</li>
-      <li>Progn2</li>
-      <li>Progn3</li>
-    </ul>
-  </li>
-  <li><strong>Terminal Sets:</strong>
-    <ul>
-      <li>Left</li>
-      <li>Right</li>
-      <li>Move</li>
-    </ul>
-  </li>
-</ul>
-<h3>Fitness Function</h3>
-<p>The fitness for the GP program is to eat as much prey as possible within the given amount of moves, ensuring the number of prey eaten is less than the total amount spawned on the map.</p>
-<h3>Evolutionary Parameters</h3>
-<ul>
-  <li><strong>Crossover Rate:</strong> 90%</li>
-  <li><strong>Mutation Rate:</strong> 10%</li>
-  <li><strong>Elites Carried Over:</strong> 10 to the next generation</li>
-</ul>
-<h3>Best Individual GP Expression</h3>
-<pre><code>(progn3
+# Predator-Prey Genetic Programming Solution
+
+The Predator-Prey problem aims to simulate one predator pursuing multiple prey instances within a map. The objective is to eat as much prey as possible within a given number of moves, with the predator evolving a successful pursuit strategy. The evolutionary process employs genetic programming with the ECJ (A Java-based Evolutionary Computation Research System) framework.
+
+### Problem Description
+
+- **Simulation Environment:** 2-dimensional array [30x30]
+- **Predator's Symbol:** "#" (Hash symbol)
+- **Eaten Prey Symbol:** "X" (Alphabet X)
+- **Surviving Prey Symbol:** "p" (Alphabet small-p)
+- **Empty Cell Symbol:** "." (Dot)
+
+### Genetic Programming Parameters
+
+- **Function Sets:**
+  - IfPreyAhead
+  - IfPreyBehind
+  - IfPreyLeft
+  - IfPreyRight
+  - Progn2
+  - Progn3
+- **Terminal Sets:**
+  - Left
+  - Right
+  - Move
+
+### Fitness Function
+
+The fitness for the GP program is to eat as much prey as possible within the given amount of moves, ensuring the number of prey eaten is less than the total amount spawned on the map.
+
+### Evolutionary Parameters
+
+- **Crossover Rate:** 90%
+- **Mutation Rate:** 10%
+- **Elites Carried Over:** 10 to the next generation
+
+### Best Individual GP Expression
+
+```
+(progn3
   (progn3
     (if-prey-behind
       (progn2 move
@@ -124,9 +124,13 @@
                       (if-prey-ahead left move))
                     (if-prey-ahead left move))
                   (if-prey-left move
-                    (if-prey-behind left move)))))</code></pre>
-<h3>Best Individual's Map</h3>
-<pre><code>Best Individual's Map
+                    (if-prey-behind left move)))))
+```
+
+### Best Individual's Map
+
+```
+Best Individual's Map
 =====================
 Simulation Map:
 ##########..#..##############.
@@ -159,4 +163,22 @@ Simulation Map:
 ..##X######.#........#..#.....
 #######..#..###X######..#..###
 ..#......#..#...........#..#..
+```
 
+## Getting Started
+
+1. Add [ECJ](https://cs.gmu.edu/~eclab/projects/ecj/) jar file to the `app/libs` directory.
+2. Run `pursuit.PredatorRunner` from an IDE or via the terminal.
+
+IDE:
+![intellij](https://github.com/iaminhri/Predator-Prey-using-Genetic-Programming/assets/49620086/0d909936-ecbe-4b2a-843d-e611e144b810)
+
+Terminal:
+
+```sh
+gradlew run
+```
+
+## Reference(s)
+
+> Sean Luke. ECJ Evolutionary Computation Library (1998). Available for free at https://cs.gmu.edu/~eclab/projects/ecj/
